@@ -132,4 +132,4 @@ In short: **system tweaker for gaming** finds the clutter that slows your PC dow
 
 ---
 
-*gentle-lantern-137 · Updated 2026-10-09 · Shared under the MIT License*
+*gentle-lantern-137 · Updated 2026-10-10 · Shared under the MIT License*
